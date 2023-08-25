@@ -1,1 +1,1 @@
-In this project  I am to create something that works just like shell
+In this project We are to work for just a simple shell.
