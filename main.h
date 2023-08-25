@@ -1,4 +1,4 @@
-#ifndef MAIN_h
+#ifndef MAIN_H
 #define MAIN_H
 
 #include <stdio.h>
@@ -33,4 +33,4 @@ int _fork_fun(char **arg, char **av, char **env,
 char *lineptr, int np, int c);
 
 
-#endif MAIN_H
+#endif /*MAIN_H*/
